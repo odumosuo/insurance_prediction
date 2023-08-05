@@ -28,5 +28,5 @@ The dataset used in this analysis can be obtained from:
 https://www.kaggle.com/datasets/simranjain17/insurance
 
 ## Authors
-Olusegun Odumosu*, Abelhard Jauwena*, Nishita Sharif*
+Olusegun Odumosu*, Abelhard Jauwena*, Nishita Sharif*  
 *University of Guelph
