@@ -22,3 +22,7 @@ Model evaluation
 Hyperparameter tuning  
 Overfitting and underfitting considerations  
 Prediction
+
+## Dataset
+The dataset used in this analysis can be obtained from:
+https://www.kaggle.com/datasets/simranjain17/insurance
