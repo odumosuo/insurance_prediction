@@ -9,8 +9,9 @@ The results of this investigation can inform best practices in constructing mach
 ## How to Run
 To execute the project, ensure that all files are in the same directory, and then run the pyhton script master_script.py
 
-##Features
+## Features
 Health insurance premiums
+
 Machine learning models (Regression and Classification)
 k-Nearest Neighbors (kNN)
 Adaptive Boosting Regressor (AdaBoost Regressor)
