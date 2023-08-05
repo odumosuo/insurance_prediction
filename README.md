@@ -20,5 +20,5 @@ Data preprocessing
 Outlier detection  
 Model evaluation  
 Hyperparameter tuning  
-Overfitting and underfitting considerations
+Overfitting and underfitting considerations  
 Prediction
