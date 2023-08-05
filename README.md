@@ -7,3 +7,18 @@ After thorough data processing, we used the information to train all six models 
 The results of this investigation can inform best practices in constructing machine learning models in the future and highlight lifestyle practices that individuals can modify to reduce their insurance expenses.
 
 ## How to Run
+To execute the project, ensure that all files are in the same directory, and then run the pyhton script master_script.py
+
+##Features
+Health insurance premiums
+Machine learning models (Regression and Classification)
+k-Nearest Neighbors (kNN)
+Adaptive Boosting Regressor (AdaBoost Regressor)
+Adaptive Boosting Classifier (AdaBoost Classifier)
+Support Vector Machine (SVM)
+Data preprocessing
+Outlier detection
+Model evaluation
+Hyperparameter tuning
+Overfitting and underfitting considerations
+Prediction
