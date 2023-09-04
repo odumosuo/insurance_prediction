@@ -17,7 +17,7 @@ insurance_dataset_clean.csv
 """
 
 
-# So we're adding stuff from these scripts, in this order: data_cleaner.py, explore_and_visualize_initial_data.py, outlier_detection_KNN_clustering.py, shuffling data (in the data_splitter.py script I think)
+
 import numpy as np
 import pandas as pd
 import argparse
