@@ -6,6 +6,9 @@ After thorough data processing, we used the information to train all six models 
 
 The results of this investigation can inform best practices in constructing machine learning models in the future and highlight lifestyle practices that individuals can modify to reduce their insurance expenses.
 
+## Report
+Predicting_insurance_charges_with_machine_learning.pdf
+
 ## How to Run
 To execute the project, ensure that all files are in the same directory, and then run the python script master_script.py
 
